@@ -1,3 +1,3 @@
-# voxmedia
+# VoxMedia
 
-A new Flutter project.
+Design, build and share yout structures with other people!
